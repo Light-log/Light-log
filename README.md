@@ -1,32 +1,42 @@
 # Hola, soy David 👋
 
-**Desarrollador Full Stack** — construyo y publico productos reales en producción, no solo prototipos.
+**Desarrollador Full Stack** — trabajo en producto real: apps publicadas en tiendas, ERPs desplegados y sistemas internos en uso diario.
 
 📍 Caracas, Venezuela · Remoto · 🟢 Abierto a nuevas oportunidades
 
-## 🚀 Productos en producción
+## 🚀 En qué he trabajado
+
+Desarrollo en **Consultora Ruby**, encargándome del ciclo completo: desarrollo, despliegue y publicación en tiendas.
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| **Lazo** | App móvil publicada en App Store y Google Play | React · Express · Prisma · Capacitor · FCM |
-| **Ekono** | App de finanzas personales en Google Play | React · Capacitor |
-| **Apsis CRM** | CRM multiempresa en uso real: facturación, nóminas, RRHH e integraciones | Next.js · TypeScript · Prisma · PostgreSQL · Docker |
-| **RubyQ** | SaaS de chatbots con IA omnicanal | TypeScript · Python · Prisma |
-| **Altum** | Automatización de flujos documentales legales con IA | Fastify · BullMQ/Redis · MinIO/S3 · Prisma |
+| **[Ekono](https://play.google.com/store/apps/details?id=com.ekono.app)** | App de finanzas personales, publicada en Google Play | React · Capacitor |
+| **[Lazo](https://play.google.com/store/apps/details?id=app.lazo.com)** | App para parejas, publicada en Google Play y App Store · proyecto de cliente | React · Express · Prisma · Capacitor · FCM |
+| **Apsis CRM** | CRM multiempresa en uso diario: facturación, nóminas, RRHH e integraciones | Next.js · TypeScript · Prisma · PostgreSQL · Docker |
+| **RubyQ** | SaaS de chatbots con IA omnicanal · desplegado y en funcionamiento | TypeScript · Python · Prisma |
+| **Altum** | Automatización de flujos documentales legales con IA · en despliegue | Fastify · BullMQ/Redis · MinIO/S3 · Prisma |
+| **Odoo 19 + localización VE** | ERP con localización fiscal venezolana: IGTF, retenciones, cierre de ejercicio | Python · Odoo · Docker |
 
 ## 🛠️ Stack
 
-**Lenguajes** — TypeScript, JavaScript, Python, Kotlin, SQL
+**Lenguajes** — TypeScript, JavaScript, Python, SQL
 
-**Frontend** — Next.js, React, Tailwind CSS, Capacitor, Jetpack Compose
+**Frontend** — Next.js, React, Tailwind CSS, Capacitor
 
 **Backend y datos** — Node.js, Fastify, Express, Prisma, PostgreSQL, Redis, BullMQ, APIs REST
 
-**DevOps e IA** — Docker, GitHub Actions, Odoo, n8n, integración de APIs de IA, desarrollo asistido por IA
+**DevOps y despliegue** — Docker, Coolify, GitHub Actions, Odoo · publicación en Google Play y App Store
+
+**Flujo de trabajo** — Desarrollo asistido por IA, integrado en el día a día
+
+## 🔧 Proyectos propios
+
+- **[warp-control-fedora](https://github.com/Light-log/warp-control-fedora)** — Interfaz gráfica para Cloudflare WARP en Fedora: icono de bandeja con estado en vivo, exclusión de dominios e instalador todo-en-uno. Bash + Python + GTK.
+- **[Ruby-Web](https://github.com/Light-log/Ruby-Web)** — Sitio corporativo de Consultora Ruby. Next.js + TypeScript.
 
 ## 📌 Sobre mis repositorios
 
-La mayoría de mi trabajo es para clientes y está en repositorios privados. Los productos de arriba están en producción y se pueden ver funcionando en los enlaces.
+La mayoría de mi trabajo es para clientes y está en repositorios privados. Las apps de arriba se pueden descargar en los enlaces.
 
 ## 📫 Contacto
 
