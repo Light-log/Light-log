@@ -16,6 +16,7 @@ Desarrollo en **Consultora Ruby**, encargándome del ciclo completo: desarrollo,
 | **RubyQ** | SaaS de chatbots con IA omnicanal · desplegado y en funcionamiento | TypeScript · Python · Prisma |
 | **Altum** | Automatización de flujos documentales legales con IA · en despliegue | Fastify · BullMQ/Redis · MinIO/S3 · Prisma |
 | **Odoo 19 + localización VE** | ERP con localización fiscal venezolana: IGTF, retenciones, cierre de ejercicio | Python · Odoo · Docker |
+| **[Sentiment Analysis](https://huggingface.co/Light-Dav/sentiment-analysis-full-project)** | Modelo BERT propio, entrenado y publicado · [demo en vivo](https://huggingface.co/spaces/Light-Dav/sentiment-analysis-demo) | PyTorch · Transformers · Gradio |
 
 ## 🛠️ Stack
 
@@ -27,12 +28,15 @@ Desarrollo en **Consultora Ruby**, encargándome del ciclo completo: desarrollo,
 
 **DevOps y despliegue** — Docker, Coolify, GitHub Actions, Odoo · publicación en Google Play y App Store
 
+**IA y machine learning** — Hugging Face, Transformers, PyTorch, fine-tuning de BERT, Gradio, integración de APIs de IA
+
 **Flujo de trabajo** — Desarrollo asistido por IA, integrado en el día a día
 
 ## 🔧 Proyectos propios
 
-- **[warp-control-fedora](https://github.com/Light-log/warp-control-fedora)** — Interfaz gráfica para Cloudflare WARP en Fedora: icono de bandeja con estado en vivo, exclusión de dominios e instalador todo-en-uno. Bash + Python + GTK.
+- **[warp-control-UI](https://github.com/Light-log/warp-control-UI)** — Interfaz gráfica para Cloudflare WARP en Fedora: icono de bandeja con estado en vivo, exclusión de dominios e instalador todo-en-uno. Bash + Python + GTK.
 - **[Ruby-Web](https://github.com/Light-log/Ruby-Web)** — Sitio corporativo de Consultora Ruby. Next.js + TypeScript.
+- **[sentiment-analysis-full-project](https://huggingface.co/Light-Dav/sentiment-analysis-full-project)** — Fine-tuning de `bert-base-uncased` para clasificación de sentimiento: EDA, tokenización, entrenamiento (3 épocas) y publicación del modelo con demo Gradio en vivo.
 
 ## 📌 Sobre mis repositorios
 
@@ -40,4 +44,4 @@ La mayoría de mi trabajo es para clientes y está en repositorios privados. Las
 
 ## 📫 Contacto
 
-🌐 [devruby.org](https://devruby.org) · 💼 [LinkedIn](https://www.linkedin.com/in/carlos-david-isturiz) · ✉️ David.isturiz@mail.com
+🌐 [devruby.org](https://devruby.org) · 💼 [LinkedIn](https://www.linkedin.com/in/carlos-david-isturiz) · 🤗 [Hugging Face](https://huggingface.co/Light-Dav) · ✉️ David.isturiz@mail.com
